@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Essential Worker
-subtitle: editorial
+subtitle: an editorial
 excerpt: COVID-19 has squeezed the last drops of legitimacy from our decadent ruling class. In this crisis, the revolutionary proletariat has no choice but to retake the historical stage.
 ---
 
