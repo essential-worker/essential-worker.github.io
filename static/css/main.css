@@ -4,6 +4,16 @@ layout: null
 
 /* --- General --- */
 
+.btn,.btn-success,.btn:hover,.btn-success:hover {
+  background-color: rgb(241, 59, 54);
+  border-color: rgb(241, 59, 54);
+}
+
+.btn:focus,.btn-success:focus {
+  background-color: rgb(241, 59, 54);
+  border-color: black;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
