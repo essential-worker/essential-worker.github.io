@@ -4,7 +4,7 @@ title: The Essential Worker
 subtitle: an editorial
 excerpt: COVID-19 has squeezed the last drops of legitimacy from our decadent ruling class. In this crisis, the revolutionary proletariat has no choice but to retake the historical stage.
 meta-title: The Essential Worker - an editorial
-meta-description: COVID-19 has squeezed the last drops of legitimacy from our decadent ruling class. In this crisis, the revolutionary proletariat has no choice but to retake the historical stage.
+meta-description: In this crisis, the revolutionary proletariat has no choice but to retake the historical stage.
 ---
 
 What use is democracy when 'freedom' means abandonment? What use is state power when the nation serves finance?
