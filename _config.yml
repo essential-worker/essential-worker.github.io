@@ -4,11 +4,14 @@ description: A dispatch for the rapidly radicalizing
 #url: ""
 #baseurl: ""
 
+avatar: "/static/img/avatar.jpg"
+
 navbar-links:
   About: "about"
 
 author:
   name: The Essential Worker
+  twitter: WorkerZine
 
 social-network-links:
   rss: true
