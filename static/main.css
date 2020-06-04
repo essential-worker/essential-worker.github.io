@@ -1,0 +1,15 @@
+.btn,.btn-success,.btn:hover,.btn-success:hover {
+    background-color: rgb(241, 59, 54);
+    border-color: rgb(241, 59, 54);
+}
+
+.btn:focus,.btn-success:focus {
+    background-color: rgb(241, 59, 54);
+    border-color: black;
+}
+
+@media only screen and (min-width: 1200px) {
+    .intro-header.big-img {
+        background-size: auto !important;
+    }
+}
